@@ -1,9 +1,7 @@
 <!-- Capa só com nome -->
 <h1 align="center">Brayam Alexandre Arraes</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrayamArraes&color=blue" alt="contador de visitas" />
-</p>
+
 
 ---
 
@@ -61,3 +59,7 @@ Sou um desenvolvedor apaixonado por tecnologia, em transição de carreira da á
 ---
 
 ⭐️ **Se gostou, me segue e dá uma olhada nos meus repositórios!**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayamArraes&color=blue" alt="contador de visitas" />
+</p>
