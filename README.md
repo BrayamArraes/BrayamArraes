@@ -61,5 +61,5 @@ Sou um desenvolvedor apaixonado por tecnologia, em transição de carreira da á
 ⭐️ **Se gostou, me segue e dá uma olhada nos meus repositórios!**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrayamArraes&color=blue" alt="contador de visitas" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=BrayamArraes.profile.visitas&left_color=blue&right_color=green" alt="Contador de visitas" />
 </p>
