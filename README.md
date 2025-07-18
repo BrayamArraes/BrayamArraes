@@ -1,6 +1,10 @@
 <!-- Capa só com nome -->
 <h1 align="center">Brayam Alexandre Arraes</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayamArraes&color=blue" alt="contador de visitas" />
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mim
