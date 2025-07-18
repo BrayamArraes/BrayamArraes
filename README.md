@@ -1,5 +1,5 @@
 <!-- Capa só com nome -->
-<h1 align="center">Brayam Arraes</h1>
+<h1 align="center">Brayam Alexandre Arraes</h1>
 
 ---
 
