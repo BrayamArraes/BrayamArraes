@@ -35,14 +35,9 @@ Sou um desenvolvedor apaixonado por tecnologia, em transição de carreira da á
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayamArraes&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayamArraes&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
+📊 Estatísticas do GitHub
+<div align="center"> <a href="https://github.com/BrayamArraes"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayamArraes&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayamArraes&layout=compact&langs_count=8&theme=radical"/> </a> </div>
+---g
 
 ### 🌐 Onde me encontrar
 
