@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, em transição de carreira da á
 
 ### 🌟 Projeto em Destaque
 
-[![INTERFACE](https://github.com/BrayamArraes/ProjetoEssence/blob/main/INTERFACE.png?raw=true)](https://github.com/BrayamArraes/ProjetoEssence)
+![INTERFACE](https://raw.githubusercontent.com/BrayamArraes/ProjetoEssence/main/INTERFACE.png)
 
 ---
 
